@@ -13,8 +13,12 @@ kecepatan ular tersebutpun akan bertambah.
 
 score awal yaitu 0, dan akan bertambah +1 jika berhasil memakan feed 
 
+game over jika kepala ular bertemu bagian dari ular tersebut.
+
 Berikut beberapa screenshot 
 
 ![](foto/awal.png)
 
-![](foto/awal.png)
+![](foto/memakan.png)
+
+![](foto/end.png)
