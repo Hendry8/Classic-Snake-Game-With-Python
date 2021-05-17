@@ -2,7 +2,7 @@
 
 Projek ini adalah hasil nostalgia terhadap game sewaktu kecil yaitu snake classic
 
-**Tampilan awal**
+
 
 Terdapat ular dan feed, dimana letak feed akan berubah ketika kepala ular berhasil bertemu feed.
 
@@ -17,8 +17,14 @@ game over jika kepala ular bertemu bagian dari ular tersebut.
 
 Berikut beberapa screenshot 
 
+**Tampilan awal**
+
 ![](foto/awal.png)
 
-![](foto/memakan.png)
+**Berhasil memakan**
+
+![](foto/Memakan.png)
+
+**Game Over**
 
 ![](foto/end.png)
